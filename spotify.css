@@ -1,0 +1,31 @@
+#cg{color: white;}
+.but{background-color: #b4b8b2;border-radius: 10px; height: 36px; width: 70px; }
+h1{font-family: 'Noto Sans', sans-serif;}
+#my{font-family: 'Noto Sans', sans-serif;}
+#abc{text-align: center;background-color: gray;color: white;padding-top: 5px;padding-bottom: 5px;}
+#logo{height:60px;background-color: black;}
+#log{height:60px;}
+#bd{text-align: center;padding-top: 45px;padding-bottom: 45px;}
+#im{text-align: center;height: auto;}
+.checked{color: orange;}
+#star{text-align: center;}
+#blank{color: gray;text-align: center;}
+#bd{border-left-style: solid;border-color: gray;border-width: 1px;border-right-style: solid;}
+#im{border-left-style: solid;border-color: gray;border-width: 1px;}
+#star{border-right-style: solid;border-color: gray;border-width: 1px;border-left-style: solid;}
+#abc{border-left-style: solid;border-color: gray;border-width: 1px;border-right-style: solid}
+table{font-size: 1.2em;font-family: 'Noto Sans', sans-serif;color: gray;}
+.last{border-bottom-style:solid; border-width: 1px;}
+#sonali{background-color: #E7F6F2;}
+label{width:250px;display: inline-block;}
+#Art{display: none;}
+#inline{background-color: gray;width: 140px;height: 30px;text-align: center;padding-top: 5px;color: white;}
+.pad{margin-left: 150px;}
+#pol{display: none;}
+#bxn{margin-left: 255px;color: white;white;font-family: 'Noto Sans', sans-serif;font-weight: bold;}
+button{background-color: gray;height: 30px;width: 80px;}
+#ctn{color: white;white;font-family: 'Noto Sans', sans-serif;font-weight: bold;font-size: 1.1em;}
+#Artist{width:140px;}
+/* #topi{font-size: 2.5em} */
+#ryt{margin-left: 950px;background-color: white;color: white;text-align-last: center;width: 150px;height: 35px;padding-top: 8px;
+font-family: 'Noto Sans', sans-serif;font-weight: bold;font-size: 1.1em;}
